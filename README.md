@@ -13,7 +13,7 @@ I am a software engineer and a researcher familiar with gathering, cleaning, and
   Masters in Computer Science, GPA: 3.84
 
 - **Visvesvaraya Technological University**, India  (August 2008 - June 2012)
-  Bachelors in Computer Science and Engineering, GPA: 8.83
+  	Bachelors in Computer Science and Engineering, GPA: 8.83
 
 ## Technical Skills
 - **Languages**: Python, Java, C, C++, HTML/CSS, JavaScript, React JS, SQL
