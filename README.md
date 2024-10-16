@@ -35,7 +35,6 @@ Earth Knowledge Acquired by Middle School Students is a NASA educational outreac
 - **NASA Earth Observations for Health (NEOH)**  
   The NEOH project is striving to improve malaria control decision-making in sub-Saharan Africa by developing and deploying technology for incorporating the latest NASA Earth observations for surface temperatures, precipitation, and vegetation health into the District Health Information Software 2 (DHIS2) used worldwide, including all sub- Saharan African countries.
 
-
 - **Global Hydrometeorology Resource Center Projects**
 
 	Global Hydrometeorology Resource Center (GHRC) is to provide a comprehensive active archive of both data and knowledge augmentation services with a focus on hazardous weather, its governing dynamical and physical processes, and associated applications. Within this broad mandate, GHRC will focus on lightning, tropical cyclones, and storm-induced hazards through integrated collections of satellite, airborne, and in-situ data sets. The GHRC is a partnership between NASA Marshall Space Flight Center (MSFC) and The University of Alabama in Huntsville (UAH).
@@ -52,7 +51,7 @@ Earth Knowledge Acquired by Middle School Students is a NASA educational outreac
   - Research to develop new techniques and systems that ultimately solve real-world problems through the transfer of innovative technologies and knowledge
 
 
-### Part-time Instructor (August 2022 – Present)             
+### Part-time Instructor (August 2022 – May 2024)             
    	**Computer Science Department, The University of Alabama in Huntsville**, Huntsville, AL
 
 •	CS 317: Introduction to Design and Analysis of Algorithms.
