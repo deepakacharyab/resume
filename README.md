@@ -26,10 +26,10 @@ I am a researcher familiar with gathering, cleaning, and organizing data for tec
 **Information Technology and Systems Center, The University of Alabama in Huntsville**, Huntsville, AL
 
 - **NASA Cloud-based Analytical Framework for Precipitation**  
-  Developed an application to enhance GPM data resolution for better identification of convective scale precipitation, collaborating with NASA/MSFC.
+    In collaboration with the NASA Marshall Space Flight Center (NASA/MSFC), the focus of this project is to develop an application that involves software development and machine learning model development to enhance the resolution of GPM data for improved identification of convective scale precipitation features, particularly outside the range of ground-based weather radar. This resolution enhancement technology is called super-resolution or downscaling.
 
 - **Sally Ride EarthKAM**  
-  NASA educational outreach program enabling students and the public to learn about Earth from space through images captured by the ISS.
+Earth Knowledge Acquired by Middle School Students is a NASA educational outreach program that enables students, teachers, and the public to learn about Earth from the unique perspective of space. Students sign up for missions and request images; then, the International Space Station captures the images for the students.
 
 - **NASA Earth Observations for Health (NEOH)**  
-  Developed technology to incorporate NASA Earth observations into DHIS2, aiding malaria control decision-making in sub-Saharan Africa.
+  The NEOH project is striving to improve malaria control decision-making in sub-Saharan Africa by developing and deploying technology for incorporating the latest NASA Earth observations for surface temperatures, precipitation, and vegetation health into the District Health Information Software 2 (DHIS2) used worldwide, including all sub- Saharan African countries.
