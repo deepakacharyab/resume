@@ -1,4 +1,4 @@
-# DEEPAK ACHARYA
+# DATA SCIENTIST
 **Cell**: +1-256-652-9620  |  **E-mail**: deepak.acharya@uah.edu  |  **LinkedIn**: [linkedin.com/in/deepakbacharya](https://linkedin.com/in/deepakbacharya)  
 **Google Scholar**: [scholar.google.com/citations?user=NkS_pkUAAAAJ](https://scholar.google.com/citations?user=NkS_pkUAAAAJ)
 
