@@ -1,4 +1,4 @@
-# DATA SCIENTIST
+# SOFTWARE ENGINEER (AI/ML)
 **Cell**: +1-256-652-9620  |  **E-mail**: deepak.acharya@uah.edu  |  **LinkedIn**: [linkedin.com/in/deepakbacharya](https://linkedin.com/in/deepakbacharya)  
 **Google Scholar**: [scholar.google.com/citations?user=NkS_pkUAAAAJ](https://scholar.google.com/citations?user=NkS_pkUAAAAJ)
 
@@ -7,13 +7,14 @@ I am a software engineer and a researcher familiar with gathering, cleaning, and
 
 ## Education
 - **The University of Alabama in Huntsville**, Huntsville, AL (August 2018 – May 2022)  
-  Ph.D. in Computer Science, GPA: 3.84
+  Ph.D. in Computer Science
 
 - **The University of Alabama in Huntsville**, Huntsville, AL (August 2013 – May 2015)  
-  Masters in Computer Science, GPA: 3.84
+  Masters in Computer Science
 
-- **Visvesvaraya Technological University**, India  (August 2008 - June 2012)
-  	Bachelors in Computer Science and Engineering, GPA: 8.83
+- **Visvesvaraya Technological University**, India, Karnataka (August 2008 – May 2012)  
+  Bachelors in Computer Science and Engineering
+
 
 ## Technical Skills
 - **Languages**: Python, Java, C, C++, HTML/CSS, JavaScript, React JS, SQL
@@ -39,17 +40,16 @@ Earth Knowledge Acquired by Middle School Students is a NASA educational outreac
 
 	Global Hydrometeorology Resource Center (GHRC) is to provide a comprehensive active archive of both data and knowledge augmentation services with a focus on hazardous weather, its governing dynamical and physical processes, and associated applications. Within this broad mandate, GHRC will focus on lightning, tropical cyclones, and storm-induced hazards through integrated collections of satellite, airborne, and in-situ data sets. The GHRC is a partnership between NASA Marshall Space Flight Center (MSFC) and The University of Alabama in Huntsville (UAH).
 
-- **Responsibilities on the above projects:
-**
-•	Design discussions to provide extensive solutions to the requirements
-•	Design and analysis of systems and data for various projects
-•	Investigation and incorporation of Artificial Intelligence/Machine Learning/Deep Learning methodologies in projects
-•	Research and develop machine learning models and provide software solutions
-•	Application development using Java and front-end frameworks.
-•	Participation in data and systems life cycle
-•	Collaborations with customers and partners
-•	Mentoring students who work as a research assistant
-•	Research to develop new techniques and systems that ultimately solve real-world problems through the transfer of innovative technologies and knowledge
+  **Responsibilities on the above projects:**
+  - Design discussions to provide extensive solutions to the requirements
+  - Design and analysis of systems and data for various projects
+  - Investigation and incorporation of Artificial Intelligence/Machine Learning/Deep Learning methodologies in projects
+  - Research and develop machine learning models and provide software solutions
+  - Application development using Java and front-end frameworks.
+  - Participation in data and systems life cycle
+  - Collaborations with customers and partners
+  - Mentoring students who work as a research assistant
+  - Research to develop new techniques and systems that ultimately solve real-world problems through the transfer of innovative technologies and knowledge
 
 
 ### Part-time Instructor (August 2022 – Present)             
