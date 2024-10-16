@@ -35,11 +35,11 @@ Earth Knowledge Acquired by Middle School Students is a NASA educational outreac
   The NEOH project is striving to improve malaria control decision-making in sub-Saharan Africa by developing and deploying technology for incorporating the latest NASA Earth observations for surface temperatures, precipitation, and vegetation health into the District Health Information Software 2 (DHIS2) used worldwide, including all sub- Saharan African countries.
 
 
-**Global Hydrometeorology Resource Center Projects**
+- **Global Hydrometeorology Resource Center Projects**
 
 Global Hydrometeorology Resource Center (GHRC) is to provide a comprehensive active archive of both data and knowledge augmentation services with a focus on hazardous weather, its governing dynamical and physical processes, and associated applications. Within this broad mandate, GHRC will focus on lightning, tropical cyclones, and storm-induced hazards through integrated collections of satellite, airborne, and in-situ data sets. The GHRC is a partnership between NASA Marshall Space Flight Center (MSFC) and The University of Alabama in Huntsville (UAH).
 
-**Responsibilities on the above projects:
+- **Responsibilities on the above projects:
 **
 •	Design discussions to provide extensive solutions to the requirements
 •	Design and analysis of systems and data for various projects
