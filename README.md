@@ -71,7 +71,7 @@ Responsibilities:
 •	Primary instructor for CS102, CS121, CS317: Introduction to programming in C and C++, Design and Analysis of Algorithms
 •	CS102, CS121, CS317: Responsible for teaching and designing course syllabus, slides, assignments, and exams
 
-Software Developer (February 2017 - June 2018)
+### Software Developer (February 2017 - June 2018)
               Riskonnect Inc,  Kennesaw, GA	
    Responsibilities:
 •	Experience building Visual force pages, Visual flows, Apex classes, Apex triggers, Visual force custom controllers, Custom objects
@@ -80,7 +80,7 @@ Software Developer (February 2017 - June 2018)
 •	Analyzed business requirements and gathered information required for implementation
 •	Collaborated in a team-based, Agile environment to achieve the objectives by deadlines
  
-Java/J2EE & React JS Developer (August 2017 – February 2018)	
+### Java/J2EE & React JS Developer (August 2017 – February 2018)	
                First Tek Dos, LLC (Client: JP Morgan Chase, Houston, TX)	
 Echo Application
 Feedback-facilitation and automation tool for top management, which is intended to collect and organize investor feedback with 
@@ -101,7 +101,7 @@ Web applications, where ongoing revenue trade details of the client can be seen 
 •	Implemented RESTful services as an interface with the UI and Database
 
 
-Graduate Teaching Assistant (August 2014 – May 2015)
+### Graduate Teaching Assistant (August 2014 – May 2015)
 Computer Science Department, The University of Alabama in Huntsville, Huntsville, AL 
  
   Responsibilities:
@@ -109,7 +109,7 @@ Computer Science Department, The University of Alabama in Huntsville, Huntsville
 •	Graduate Teaching Assistant for Java programming language (CS 321)
  
 
-Asst System Engineer (November 2012 – July 2013)
+### Asst System Engineer (November 2012 – July 2013)
 Tata Consultancy Services, Bangalore, India
 
  
@@ -119,22 +119,22 @@ Tata Consultancy Services, Bangalore, India
 •	Participated in tune-in programs where the project was to develop applications
 •	Involved in testing the end-to-end application during the period
 	
-Research Interests
+### Research Interests
 •	Deep Learning & Approximations
 •	Optimization problems in Machine Learning 
 •	Analytics Combinatorial Optimization (Graph Theory)
 
-Publications
+### Publications
 •	Feature Selection and Extraction for Graph Neural Networks, publication in the Proceedings of the ACM Southeast Conference (2020)
 •	Community Detection Clustering via Gumbel- Softmax, publication in Springer SN Computer Science Journal (2020)
 •	Weighted Graph Clustering via Gumbel- Softmax, accepted in International Conference on Artificial Intelligence (2021)
 •	Data Points Clustering via Gumbel- Softmax, publication in Springer SN Computer Science Journal (2021)
 
-Achievements
+### Achievements
 •	Academic Excellence Honors Award at the University of Alabama in Huntsville
 •	Community Detection Clustering via Gumbel-Softmax: Publication of the week in DeepAI
 
-Service Activities
+### Service Activities
 •	IEEE Senior Membership 
 •	Membership of the International Association of Engineers
 •	Reviewer, IEEE Transactions on Neural Network and Learning Systems
@@ -148,7 +148,7 @@ Service Activities
 •	ACM Southeast Conference 2024 member of the technical program committee
 •	ACM Southeast Conference 2025 member of the technical program committee
 
-Academic Committees
+### Academic Committees
 MS Thesis Decision Committee (Graduated) of Mr. Erick Jones at The University of Alabama in Huntsville, Department of Computer Science
 MS Thesis Decision Committee (Graduated) of Mr. Sameer Gopali at The University of Alabama in Huntsville, Department of Computer Science
 MS Thesis Decision Committee (Graduated) of Mr. Gaurav Khatri at The University of Alabama in Huntsville, Department of Computer Science
