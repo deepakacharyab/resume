@@ -3,7 +3,7 @@
 **Google Scholar**: [scholar.google.com/citations?user=NkS_pkUAAAAJ](https://scholar.google.com/citations?user=NkS_pkUAAAAJ)
 
 ## Summary
-I am a researcher familiar with gathering, cleaning, and organizing data for technical and non-technical personnel. Highly organized, motivated, and diligent with a significant background in building web applications and machine learning models. I developed excellent communication, leadership, and problem-solving skills on my previous path, fulfilling challenges better aligned with my technical/computer science background.
+I am a software engineer and a researcher familiar with gathering, cleaning, and organizing data for technical and non-technical personnel. Highly organized, motivated, and diligent with a significant background in building web applications and machine learning models. I developed excellent communication, leadership, and problem-solving skills on my previous path, fulfilling challenges better aligned with my technical/computer science background.
 
 ## Education
 - **The University of Alabama in Huntsville**, Huntsville, AL (August 2018 – May 2022)  
@@ -12,7 +12,7 @@ I am a researcher familiar with gathering, cleaning, and organizing data for tec
 - **The University of Alabama in Huntsville**, Huntsville, AL (August 2013 – May 2015)  
   Masters in Computer Science, GPA: 3.84
 
-- **Visvesvaraya Technological University**, India  
+- **Visvesvaraya Technological University**, India  (August 2008 - June 2012)
   Bachelors in Computer Science and Engineering, GPA: 8.83
 
 ## Technical Skills
@@ -37,7 +37,7 @@ Earth Knowledge Acquired by Middle School Students is a NASA educational outreac
 
 - **Global Hydrometeorology Resource Center Projects**
 
-Global Hydrometeorology Resource Center (GHRC) is to provide a comprehensive active archive of both data and knowledge augmentation services with a focus on hazardous weather, its governing dynamical and physical processes, and associated applications. Within this broad mandate, GHRC will focus on lightning, tropical cyclones, and storm-induced hazards through integrated collections of satellite, airborne, and in-situ data sets. The GHRC is a partnership between NASA Marshall Space Flight Center (MSFC) and The University of Alabama in Huntsville (UAH).
+	Global Hydrometeorology Resource Center (GHRC) is to provide a comprehensive active archive of both data and knowledge augmentation services with a focus on hazardous weather, its governing dynamical and physical processes, and associated applications. Within this broad mandate, GHRC will focus on lightning, tropical cyclones, and storm-induced hazards through integrated collections of satellite, airborne, and in-situ data sets. The GHRC is a partnership between NASA Marshall Space Flight Center (MSFC) and The University of Alabama in Huntsville (UAH).
 
 - **Responsibilities on the above projects:
 **
