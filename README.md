@@ -39,7 +39,7 @@ Earth Knowledge Acquired by Middle School Students is a NASA educational outreac
 
 	Global Hydrometeorology Resource Center (GHRC) is to provide a comprehensive active archive of both data and knowledge augmentation services with a focus on hazardous weather, its governing dynamical and physical processes, and associated applications. Within this broad mandate, GHRC will focus on lightning, tropical cyclones, and storm-induced hazards through integrated collections of satellite, airborne, and in-situ data sets. The GHRC is a partnership between NASA Marshall Space Flight Center (MSFC) and The University of Alabama in Huntsville (UAH).
 
-  **Responsibilities on the above projects:**
+Responsibilities:
   - Design discussions to provide extensive solutions to the requirements
   - Design and analysis of systems and data for various projects
   - Investigation and incorporation of Artificial Intelligence/Machine Learning/Deep Learning methodologies in projects
@@ -59,8 +59,8 @@ Earth Knowledge Acquired by Middle School Students is a NASA educational outreac
 Responsible for teaching and designing course syllabus, slides, assignments, and exams
 
 
-Deep Learning Lab & Graduate Teaching Assistant (August 2018 – May 2022)             
-Computer Science Department, The University of Alabama in Huntsville, Huntsville, AL 	
+### Deep Learning Lab & Graduate Teaching Assistant (August 2018 – May 2022)             
+**Computer Science Department, The University of Alabama in Huntsville**, Huntsville, AL 	
 
 Responsibilities:
   - Utilize machine learning algorithms such as linear regression, multivariate regression, naive Bayes, Random Forests, K-Means,& KNN for data analysis
@@ -87,6 +87,7 @@ Responsibilities:
 Echo Application
 Feedback-facilitation and automation tool for top management, which is intended to collect and organize investor feedback with 
 respect to ongoing or upcoming investment opportunities
+
 Responsibilities:
   - Involved in design discussions to provide extensive solutions to the requirements
   - Developed Front End using HTML, CSS, React JS, Reflux, and ECMA Script 6 to achieve the required functionalities
